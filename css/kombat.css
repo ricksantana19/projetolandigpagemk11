@@ -327,3 +327,7 @@
     transform: scale(1.1);
     color: #ffa600;
 }
+
+#nome {
+    position: absolute;
+}
