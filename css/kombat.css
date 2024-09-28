@@ -328,6 +328,29 @@
     color: #ffa600;
 }
 
-#nome {
+
+
+#cadastro {
     position: absolute;
+    margin-left: 990px;
+    display: inline-block;
+    background-color: #000;
+    border: 0px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#cadastro input {
+    background-color: #000;
+    color: #fff;
+    border: 0px solid;
+}
+#cadastro button {
+    background-color: #000;
+    color: #fff;
+    border: 1px solid;
+    border-radius: 5px;
 }
